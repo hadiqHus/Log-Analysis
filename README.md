@@ -27,4 +27,5 @@ pip install psutil pandas keyboard
 
 ## Example
 The script is designed to be robust, pausing when the log file is inaccessible (e.g., when open in another application) and resuming automatically when the file becomes available.
+
 ![image](https://github.com/user-attachments/assets/7c0d1553-c139-4430-97b4-a727350c8571)
