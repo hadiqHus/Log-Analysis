@@ -23,7 +23,7 @@ You can install the necessary libraries using pip:
 
 ```bash
 pip install psutil pandas keyboard
-
+```
 
 ## Example
 ![image](https://github.com/user-attachments/assets/7c0d1553-c139-4430-97b4-a727350c8571)
