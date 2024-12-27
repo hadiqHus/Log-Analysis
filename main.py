@@ -5,7 +5,7 @@ import keyboard
 import pandas as pd 
 
 def log_process_events():
-    log_directory = "C:\\Users\\hadiq\\Desktop\\pythonstuff\\log analysis"
+    log_directory = "your/director"
     log_file = os.path.join(log_directory, "process_log.csv")
 
     # Ensure the log directory exists
